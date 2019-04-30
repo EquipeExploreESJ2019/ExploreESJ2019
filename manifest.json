@@ -1,0 +1,10 @@
+{
+  "name": "L'\u00c9quipe Explore",
+  "short_name": "Explore",
+  "icons": [],
+  "start_url": "/explore/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#202020",
+  "theme_color": "#c6aa57"
+}
